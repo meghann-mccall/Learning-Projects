@@ -1,2 +1,2 @@
 # Learning-Projects
-Repository for small independent projects created while learning languages.
+Repository for small independent projects created while learning various programming languages.
