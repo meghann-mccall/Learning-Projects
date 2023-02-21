@@ -8,6 +8,6 @@
 
 *Pretty boring to watch a computer play a fantasy game of "Go Fish," but it was fun to build!
 
-*I intend to migrate the PlayerList and Scoreboard dictionaries into classes in their own separate files, to practice OOP.
+*I intend to migrate the Playerlist and Scoreboard functionalities into Hand and Player classes in their own separate files, as I get a better handle on OOP.
 
 *Maybe toward the end of bootcamp I can turn this into a working website where a user can interact with the program?
