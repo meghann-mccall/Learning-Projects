@@ -8,6 +8,6 @@
 
 *Not sure what the point of watching a computer play "Go Fish" with itself is, but it was fun to build!
 
-*I intend to migrate the PlayerList and Scoreboard dictionaries into classes, to practice using classes and modules.
+*I intend to migrate the PlayerList and Scoreboard dictionaries into classes in their own separate files, to practice OOP.
 
 *Maybe toward the end of bootcamp I can turn this into a working website where a user can interact with the program?
